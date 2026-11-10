@@ -1,3 +1,5 @@
+![Miolo Dados — Dados públicos. Cabeça aberta.](assets/banner-github.svg)
+
 # Miolo Dados
 
 **Dados públicos, análises abertas, conhecimento compartilhado.**
