@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-github.svg" alt="Miolo Dados — Dados públicos. Cabeça aberta." width="760">
+  <img src="assets/banner-github-white.svg" alt="Miolo Dados — Dados públicos. Cabeça aberta." width="760">
 </p>
 
 # Miolo Dados
