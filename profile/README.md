@@ -1,4 +1,6 @@
-![Miolo Dados — Dados públicos. Cabeça aberta.](assets/banner-github.svg)
+<p align="center">
+  <img src="assets/banner-github.svg" alt="Miolo Dados — Dados públicos. Cabeça aberta." width="760">
+</p>
 
 # Miolo Dados
 
